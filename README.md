@@ -113,6 +113,7 @@ Feel free to contact the developer through:
 * JavaScript
 * Tailwind CSS
 * Chart.js
+* html2pdf.bundle.min.js
 
 ---
 
@@ -197,7 +198,7 @@ http://localhost/bakeos
 
 ## Authentication
 
-* Login system
+* Login system (User:admin Pass:admin1234)
 * Session protection
 * Protected pages
 
@@ -294,6 +295,8 @@ For advanced versions, custom systems, or additional modules:
 Please contact the developer through:
 
 * Email : config_error@yahoo.com (Mark Sheldon Wong)
+* Blog: https://haktechblogs.blogspot.com/ 
+* YouTube: https://www.youtube.com/@streamrepublic9561
 
 ---
 
