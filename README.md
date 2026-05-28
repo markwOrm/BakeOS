@@ -4,6 +4,16 @@
 
 BakeOS is a modern Bakery Management and Point of Sale (POS) System built using PHP, MySQL, HTML, CSS, JavaScript, and Tailwind CSS.
 
+<img width="1019" height="579" alt="Screenshot 2026-05-28 151902" src="https://github.com/user-attachments/assets/b97bf270-be68-4189-be91-639140165232" />
+
+<img width="1000" height="603" alt="Screenshot 2026-05-28 152346" src="https://github.com/user-attachments/assets/aa2ef511-43e1-440a-a904-a1e98c9bafc0" />
+
+<img width="1000" height="604" alt="Screenshot 2026-05-28 152131" src="https://github.com/user-attachments/assets/0a9992ef-4b4d-42fc-8e58-fb257960828c" />
+
+<img width="812" height="605" alt="Screenshot 2026-05-28 152328" src="https://github.com/user-attachments/assets/4dd6dedf-0129-4cf9-bd3e-03c41c3f23ba" />
+
+
+
 This project is designed for:
 
 * Bakery businesses
@@ -198,7 +208,7 @@ http://localhost/bakeos
 
 ## Authentication
 
-* Login system (User:admin Pass:admin1234)
+* Login system (User:admin Pass:admin123)
 * Session protection
 * Protected pages
 
